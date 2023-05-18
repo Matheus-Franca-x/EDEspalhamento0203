@@ -18,7 +18,6 @@ public class Main {
 				{142, 148, 227, 939, 585, 338, 206},
 				{569, 708, 844}};
 		
-		
 		TabelaController controll = new TabelaController();
 		
 		try {
